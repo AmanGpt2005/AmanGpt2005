@@ -1,4 +1,4 @@
-![logo](https://github.com/AmanGpt2005/AmanGpt2005/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.gif)
+![logo](https://raw.githubusercontent.com/AmanGpt2005/AmanGpt2005/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Aman Gupta</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
@@ -38,7 +38,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amangpt2005&show_icons=true&locale=en" alt="amangpt2005" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amangpt2005&" alt="amangpt2005" /></p>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amangpt2005/amangpt2005/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amangpt2005/amangpt2005/output/github-snake.svg" />
