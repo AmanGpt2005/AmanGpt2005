@@ -1,4 +1,4 @@
-![logo](https://github.com/AmanGpt2005/AmanGpt2005/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/AmanGpt2005/AmanGpt2005/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Aman Gupta</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
