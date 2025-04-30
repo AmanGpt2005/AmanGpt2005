@@ -44,8 +44,9 @@
   />
 </p>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=amangpt2005&theme=highcontrast)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amangpt2005&theme=highcontrast" alt="GitHub Streak" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amangpt2005/amangpt2005/output/github-snake-dark.svg" />
