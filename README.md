@@ -39,7 +39,7 @@
 </p>
 
 <p align="right">
-  <img align="right" 
+  <img
     src="https://github-readme-stats.vercel.app/api?username=amangpt2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=false" 
     alt="Aman Gupta's GitHub Stats" 
   />
