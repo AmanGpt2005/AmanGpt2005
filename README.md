@@ -36,6 +36,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangpt2005&show_icons=true&locale=en&layout=compact" alt="amangpt2005" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amangpt2005&show_icons=true&locale=en" alt="amangpt2005" /></p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=amangpt2005&theme=highcontrast)](https://git.io/streak-stats)
 
 <picture>
