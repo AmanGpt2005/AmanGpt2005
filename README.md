@@ -36,7 +36,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amangpt2005&show_icons=true&locale=en&layout=compact" alt="amangpt2005" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amangpt2005&show_icons=true&locale=en" alt="amangpt2005" /></p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=amangpt2005&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=false" 
+    alt="Aman Gupta's GitHub Stats" 
+  />
+</p>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=amangpt2005&theme=highcontrast)](https://git.io/streak-stats)
 
